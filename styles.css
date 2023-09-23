@@ -1,0 +1,62 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 7%;
+
+}
+
+body {
+  background-color: #393E46;
+  font-family: 'Croissant One', cursive;
+}
+
+h1 {
+  margin: 15px;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+}
+
+img {
+  width: 60%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+
+}
+
+a {
+  align-items: center;
+  text-align: center;
+  width: 150px;
+  
+margin-top: 7%;
+font-weight: 400;
+font-size: 1.5rem;
+color: white;
+background-color: #da0037;
+padding: 15px 36px;
+cursor: pointer;
+border-radius: 20px;
+text-decoration: none;
+}
+
+.logo {
+  width: 20px;
+}
+
+
